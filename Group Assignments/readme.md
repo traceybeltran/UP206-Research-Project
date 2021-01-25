@@ -23,7 +23,7 @@
 > Looking at census tracts I will be looking at areas in LA county that have high concentrations of unemployment and the occupations. This can also be a view of employment trends in South LA. Maps that show unemployment rates in relation to income, education, gender, and race. 
 
 >_Flow Chart of my Methodology_ 
->
+![Flow Chart](Group Assignment/Flow Chart.png)
 
 ## Conclusion 
 >I'm hoping to show the areas hardest hit by increased unemployment rates in Los Angeles and offer possible economic recovery strategies. As the City and County of LA are working towards their budgets for the upcoming fiscal year, it's vital to have data showing areas and people that might need help to support individuals experiencing hardship. 
